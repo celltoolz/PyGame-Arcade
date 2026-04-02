@@ -1,6 +1,8 @@
 # Retro Arcade
 
 ![Retro Arcade](screenshots/pygame-arcade.png)
+![Retro Arcade](screenshots/breakout.png)
+![Retro Arcade](screenshots/3d-tictactoe.png)
 
 A collection of classic arcade games built with Python and Pygame. All games launch from a single unified arcade frontend.
 
